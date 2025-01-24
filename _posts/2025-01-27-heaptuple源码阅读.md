@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      KVO详解
-subtitle:   KVO底层原理及其实现
+title:      postgresql堆表结构学习
+subtitle:   HeapTuple源码解析
 date:       2025-01-27
 author:     BY CRDV7
 header-img: img/post-bg-cook.jpg

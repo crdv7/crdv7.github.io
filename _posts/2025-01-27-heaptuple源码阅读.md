@@ -7,7 +7,6 @@ author:     BY CRDV7
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - pg源码阅读
     - pg存储引擎
 ---
 

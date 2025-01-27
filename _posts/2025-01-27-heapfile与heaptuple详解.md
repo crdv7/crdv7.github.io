@@ -4,7 +4,7 @@ title:      postgresql堆表结构学习
 subtitle:   HeapTableFile和HeapTuple解析
 date:       2025-01-27
 author:     BY CRDV7
-header-img: img/post-bg-debug.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - postgresql源码阅读

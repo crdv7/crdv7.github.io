@@ -9,6 +9,7 @@ catalog: true
 tags:
     - postgresql源码阅读
     - postgresql存储引擎
+    - heaptuple组织
 ---
 
 ## 前言

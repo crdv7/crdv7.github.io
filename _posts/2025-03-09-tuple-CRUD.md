@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      postgresql基本IO
-subtitle:   Read and Write HeapTuple
+title:      postgresql元组操作
+subtitle:   HeapTuple的创建、读取、更新与删除
 date:       2025-03-09
 author:     BY CRDV7
 header-img: img/post-bg-debug.png
@@ -13,7 +13,7 @@ tags:
 
 ## 前言
 
-RDBMS（关系数据库管理系统）一般由存储、事务和查询三大模块组成，本系列文章计划按照这三个模块的划分逐步学习postgresql数据库的源码。首先从数据库最底层的存储引擎开始学习。
+前一篇文章介绍了PostgreSQL中heatuple的基本构造，本文继续围绕heaptuple主题，介绍数据库对其创建、读取、更新以及删除这些基本操作的过程。
 
 
 
